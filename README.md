@@ -3,7 +3,7 @@ Project: To-do list with Express / EJS
 Project Summary: Simple To-do list using Node.js and the npm packages Express and EJS.
 
 1. Make sure you have node.js installed on your computer
-  1.1 If you don't have node.js installed you can download it here: https://nodejs.org/en/download
+  ...1.1 If you don't have node.js installed you can download it here: https://nodejs.org/en/download
 2. Download the GIT files for this project locally.
 3. Open the files in your code editor (I prefer to use VS Code) and access the terminal from within your code editor.
 4. Run npm init on your terminal - this will create a new file called packaged.json
